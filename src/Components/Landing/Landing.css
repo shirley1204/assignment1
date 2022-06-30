@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 400px; 
+}
+
+
+.column2 {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 400px; 
+  }
+
+  .button {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.margin-block{
+    margin-top: 40px;
+}
+
+.button-grey {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+.NameClass{
+margin-right: 30px;
+}
+.ColorText{
+    color: blue;
+}
+.TextCaption{
+    margin-top: 50px;
+}
+.bottom{
+    margin-bottom: 20px;
+}
